@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+}
+.container{
+    margin: auto;
+    width: 1440px;
+}
+.header{
+    min-height: 202px;
+    background-color: red;
+    font-size: 34px;
+}
+.content{
+    min-height: 510px;
+    background-color: aquamarine;
+    font-size: 34px;
+
+}
+.footer{
+    min-height: 314px;
+    background-color: #000;
+    font-size: 34px;
+    color: white;
+    text-align: center;
+
+}

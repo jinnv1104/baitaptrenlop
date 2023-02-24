@@ -1,0 +1,95 @@
+body{
+    margin: 0;
+}
+.container{
+    margin: auto;
+    width: 1440px;
+}
+.header{
+    min-height: 202px;
+    background-color: red;
+    font-size: 34px;
+    text-align: center;
+}
+.contents{
+    display: flex;
+    flex-direction: row;
+}
+.left-menu{
+    min-height: 510px;
+    background-color: rgb(45, 31, 92);
+    flex: 3;
+    font-size: 34px;
+    text-align: center;
+    
+}
+.content{
+    min-height: 510px;
+    background-color: rgb(36, 146, 19);
+    flex: 7;
+    font-size: 34px;
+    text-align: center;
+}
+
+.box{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-between;
+}
+.box1{
+    background-color:rgb(212, 321, 321) ;
+    margin: 10px;
+    width: 232px;
+    height: 235px;
+}
+.box2{
+    background-color:rgb(212, 321, 321) ;
+    margin: 10px;
+    width: 232px;
+    height: 235px;
+}
+.box3{
+    background-color:rgb(212, 321, 321) ;
+    margin: 10px;
+    width: 232px;
+    height: 235px;
+}
+.box4{
+    background-color:rgb(212, 321, 321) ;
+    margin: 10px;
+    width: 232px;
+    height: 235px;
+}
+.box5{
+    background-color:rgb(212, 321, 321) ;
+    margin: 10px;
+    width: 232px;
+    height: 235px;
+}
+.box6{
+    background-color:rgb(212, 321, 321) ;
+    margin: 10px;
+    width: 232px;
+    height: 235px;
+}
+.box7{
+    background-color:rgb(212, 321, 321) ;
+    margin: 10px;
+    width: 232px;
+    height: 235px;
+}
+.box8{
+    background-color:rgb(212, 321, 321) ;
+    margin: 10px;
+    width: 232px;
+    height: 235px;
+}
+
+.footer{
+    min-height: 314px;
+    background-color: #000;
+    font-size: 34px;
+    color: white;
+    text-align:center;
+
+}

@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+    font-size: 34px;
+}
+.container{
+    width: 100%;
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.header{
+    min-height: 202px;
+    background-color: #932626;
+    color: #fff
+}
+.contents{
+    min-height: 510px;
+    background-color: #959494;
+    color: #fff
+}
+.foodter{
+    min-height: 314px;
+    background-color: #000;
+    color: #fff
+}

@@ -1,0 +1,51 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+    font-size: 34px;
+}
+.container{
+    width: 100%;
+    max-width: 1440px;
+    margin: 0 auto;
+    text-align: center;
+}
+.header{
+    min-height: 202px;
+    background-color: #932626;
+    color: #fff
+}
+.contents{
+    min-height: 510px;
+    background-color: #959494;
+    color: #fff;
+    display: flex;
+    flex-direction: row;
+}
+.left-menu{
+    background-color: rgb(207, 239, 239);
+    min-height: 100%;
+    flex: 3;
+}
+.right{
+    background-color: rgb(99, 181, 221);
+    min-height: 100%;
+    flex: 7;
+}
+.wrap-right{
+    display: flex;
+    flex-wrap: wrap;
+}
+.boxed{
+    width: 232px;
+    height: 235px;
+    margin: 10px;
+    background-color: bisque;
+}
+.foodter{
+    min-height: 314px;
+    background-color: #000;
+    color: #fff;
+}
